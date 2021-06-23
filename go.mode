@@ -1,0 +1,3 @@
+module github.com/dalongrong/gorelease-app
+
+go 1.13
